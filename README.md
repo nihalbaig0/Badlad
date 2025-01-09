@@ -1,6 +1,6 @@
 # Badlad Repo  
 
-This repository contains the training and inference notebook, along with the presentation for **BUET CSE Fest DL Enigma 2.0**. The project focuses on solving the **Bangla Document Layout Analysis** problem using **LayoutLM**.  
+This repository contains the training and inference notebook, along with the presentation for **BUET CSE Fest DL Enigma 2.0** of Team Oppenheimer. The project focuses on solving the **Bangla Document Layout Analysis** problem using **LayoutLM**.  
 
 ---
 
@@ -23,6 +23,6 @@ The **Badlad** dataset was used for this project, which consists of annotated Ba
 
 ## Repository Contents  
 
-1. **Training Notebook**: A notebook for training the LayoutLM model on the Badlad dataset.  
-2. **Inference Notebook**: A notebook to perform inference on new Bangla documents using the trained model.  
-3. **Presentation**: Slides detailing the project, including methodology, results, and challenges.  
+1. **layoutlmv3-train**: A notebook for training the LayoutLM model on the Badlad dataset.  
+2. **layoutlmv3-inference**: A notebook to perform inference on new Bangla documents using the trained model.  
+3. **oppenheimer.pptx.pdf**: Slides detailing the project, including methodology, results, and challenges.  
